@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.shadowDesign {
+  text-shadow: 2px 2px 4px #000000;
+  background-image: linear-gradient(to right, #dbe7e4, #99c1de);
+}
+.title {
+  color: #000000;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
